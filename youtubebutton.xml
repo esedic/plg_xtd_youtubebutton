@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" method="upgrade" group="editors-xtd">
+        <name>Editor - YoutubeButton</name>
+        <author>Elvis Sedić</author>
+        <creationDate>February 2016</creationDate>
+        <copyright>(c) Elvis Sedić, 2016. All rights reserved.</copyright>
+        <license>GPL</license>
+        <authorEmail>elvis@spletodrom.com</authorEmail>
+        <authorUrl>http://www.spletodrom.com</authorUrl>
+        <version>1.0.0</version>
+        <description>
+            "This plugin inserts Youtube video with image preview (max quality)"
+        </description>
+        <files>
+            <filename plugin="youtubebutton">youtubebutton.php</filename>
+        </files>
+</extension>

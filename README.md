@@ -1,2 +1,2 @@
-# plg_xtd_youtubebutton
-Joomla editor button - insert Youtube video
+# Joomla editor button - insert Youtube video
+Change jInsertEditorText accordingly
